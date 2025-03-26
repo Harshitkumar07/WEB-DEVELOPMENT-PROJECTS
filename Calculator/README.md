@@ -32,8 +32,6 @@ The Calculator App provides a simple interface to perform essential mathematical
    ```
 3. Open the `index.html` file in your browser to use the calculator.
 
-## Sample Output
-
 ```
 
 ## Contribution
