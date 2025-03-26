@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains a diverse collection of **Web Development Projects** created using various web technologies like **HTML**, **CSS**, **JavaScript**, and **ReactJS**. These projects are designed to enhance web development skills, showcase creative UI designs, and demonstrate the implementation of modern web development practices.
+This repository contains a diverse collection of **Web Development Projects** created using various web technologies like **HTML**, **CSS**, **JavaScript**, **ReactJS**, etc. These projects are designed to enhance web development skills, showcase creative UI designs, and demonstrate the implementation of modern web development practices.
 
 Whether you're a beginner starting your web development journey or an experienced developer seeking inspiration for new ideas, this repository offers valuable resources to improve your skills.
 
